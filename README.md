@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shubhamborade1411
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Machine Learning and NLP
+### Hi there, I'm Shubham Borade
 
+### About Me 
+I'm an engineering graduate passionate about Data Science.Currently doing some Data analytics Projects
 
-<!---
-shubhamborade1411/shubhamborade1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My Hobbies
+Watching F1
+Watching Cricket
+Interested In Stock Market
