@@ -4,6 +4,6 @@
 I'm an engineering graduate passionate about Data Science.Currently doing some Data analytics Projects
 
 ### My Hobbies
-Watching F1
-Watching Cricket
-Interested In Stock Market
+- Watching F1
+- Watching Cricket
+- Interested In Stock Market
